@@ -280,7 +280,7 @@ Home
 	position: relative;
 	height: 100%;
 	min-height: 550px;
-	background-image: url(../img/nypic_bg.jpg);
+	background-image: url(../img/bg3.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: cover;
@@ -347,7 +347,7 @@ Home
 }
 
 .avatar-hero img {
-	width: 220px;
+	width: 350px;
 	margin: 0 auto;
 	border: solid 3px #dfdfdf;
 	-webkit-border-radius: 50%;
@@ -999,7 +999,7 @@ Mediaqueries
 	}
 
 	.avatar-hero img {
-		width: 240px;
+		width: 370px;
 	}
 	#home h1 {
 		font-size: 43px;
