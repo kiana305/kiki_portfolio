@@ -142,15 +142,7 @@ img {
 	font-weight: 700;
 	text-transform: capitalize;
 }
-.section-title h2:after {
-	content: '';
-	position: absolute;
-	bottom: 0;
-	left: 4px;
-	width: 50px;
-	height: 2px;
-	background-color: #444444;
-}
+
 
 
 /*----------------------------------------
